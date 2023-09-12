@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+.canvus{
+    margin: 20vh 20vw
+}
+.canvus h1{
+    color: rgb(51, 190, 49);
+    margin-bottom: 5vh;
+}
+
+#grey{
+    background: grey;
+    width: 20px;
+    height: 20px;
+    padding: 10px;
+   
+}
+#yellow{
+    background: yellow;
+    width: 20px;
+    height: 20px;
+    padding: 10px;
+   
+}
+#red{
+    background: red;
+    width: 20px;
+    height: 20px;
+    padding: 10px;
+   
+}
+#blue{
+    background: blue;
+    width: 20px;
+    height: 20px;
+    padding: 10px;
+   
+}
+.button{
+border: 1px solid black;
+height: 50px;
+width: 50px;
+margin: 10px;
+align-items: center;
+justify-content: center;
+
+}
+.button-class{
+    display: flex;
+}
+.canvus h2{
+    margin-top: 3vh;
+    justify-content: center;
+    align-items: center;
+}
